@@ -1,11 +1,6 @@
 # AI-Interaction-Report
 This repository contains the functional structure diagram of the AI-Empowered Planet Assistant. The project helps users generate detailed reports and provides AI-driven guidance. Key features include user interaction management, report generation, user profiling, AI chatbot operations, and prompt optimization using OpenAI.
 
-好的，根据你提供的产品功能结构图，我为你的GitHub仓库撰写了一个描述。以下是描述的草稿：
-
-Description (简历仓库描述)
-This repository contains the functional structure diagram of the AI-Empowered Planet Assistant project. The AI-Empowered Planet Assistant is designed to help users generate detailed reports and provide guidance on building their own AI-driven projects. The core functionalities include:
-
 User Interaction Management: Engages users through proactive questioning and continuous interaction to gather necessary information.
 Report Generation: Offers a variety of report templates based on user needs, including industry information analysis reports, conversation summaries, and future outlook reports.
 User Profiling and Questioning: Differentiates user profiles based on experience and understanding, and asks targeted questions to refine the assistance provided.
